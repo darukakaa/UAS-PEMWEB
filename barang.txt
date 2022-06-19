@@ -1,0 +1,5 @@
+ID#Kategori#Nama#Harga#Gambar
+1#Keyboard#Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch#999.000#img1.jpg
+2#keyboard#LG UltraGear™ 24GN600-B 23.8'' FHD IPS Gaming Monitor AMD FreeSync#2.799.000#img2.jpg
+3#keyboard#Logitech G413 Mechanical Backlit Gaming Keyboard#1.290.000#logitechkeyboard.png
+4#mouse#Logitech G102 LIGHTSYNC#379.000#logitechmouse.png
